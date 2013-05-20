@@ -1,5 +1,7 @@
 # Haversine Benchmarks
 
+Read about it: http://tjsingleton.name/2010/06/haversine-formula-in-ruby/.
+
 `gem install RubyInline`
 
 ## Benchmark Results
